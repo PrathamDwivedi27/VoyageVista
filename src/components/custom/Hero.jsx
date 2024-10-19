@@ -14,9 +14,12 @@ const Hero = () => {
         Discover, book, and explore hidden gems with VoyageVista. Let us make
         your travel dreams a reality.
       </p>
-      <Link to={'/create-trip'}>
-        <Button>Get Started</Button>
-      </Link>
+      <Link to={'/create-trip'} className="cursor-pointer z-10 relative">
+  <Button>Get Started</Button>
+</Link>
+
+
+      <img  className="-mt-20" src="/landing.png"  />
       
     </div>
   );
