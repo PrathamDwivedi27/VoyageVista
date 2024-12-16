@@ -5,6 +5,19 @@
 
 ---
 
+Currently places api is not working properly!!
+
+## Project Demo
+
+[![VoyageVista](/images/Screenshot%202024-12-02%20203608.png)](https://www.youtube.com/watch?v=GEW1X0MQWMM)
+
+---
+
+**Get Started Now!**  
+Visit [VoyageVista](https://voyage-vista-mocha.vercel.app/) and start creating personalized stories for kids today.
+
+---
+
 ### 🚀 **Features**
 
 #### **1. Google Authentication**
@@ -61,10 +74,5 @@ With **Google Maps** integration, you can easily visualize the exact locations o
 
 ---
 
----
 
-**Get Started Now!**  
-Visit [VoyageVista](https://voyage-vista-mocha.vercel.app/) and start creating personalized stories for kids today.
-
----
 
